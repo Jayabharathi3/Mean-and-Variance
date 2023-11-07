@@ -53,6 +53,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 DEVELOPED BY : JAYABHARATHI S
 REGISTER NO : 212222100013
+
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L);M=max(L)
